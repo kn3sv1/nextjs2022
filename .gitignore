@@ -3,9 +3,12 @@
 
 .vscode
 **.vscode
+!**.vscode/launch.json
+
 
 **.git
 **/node_modules
 
 
 **.next
+
