@@ -5,11 +5,7 @@
 **.vscode
 
 **.git
-**.gitignore
 **/node_modules
 
 
 **.next
-
-05_youtube\.git\
-05_youtube\.gitignore
